@@ -2,7 +2,8 @@
 <a href="https://fardeen-ahmed.github.io/">
   <img src="https://github.com/fardeen-ahmed/Certified-Ethical-Hacker-Resources/blob/main/maxresdefault-2745695940.jpg" alt="None" align="center" height="500" width="1000">
 </a>
-A curated list of repositories that will help individuals to prepare for examinations of Ethical Hacker 
+<br>
+## A curated list of repositories that will help individuals to prepare for examinations of Ethical Hacker 
 
 | Resource | Description |
 |-----------|-----|
