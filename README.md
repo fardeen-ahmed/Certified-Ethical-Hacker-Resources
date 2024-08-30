@@ -3,7 +3,7 @@
   <img src="https://github.com/fardeen-ahmed/Certified-Ethical-Hacker-Resources/blob/main/maxresdefault-2745695940.jpg" alt="None" align="center" height="500" width="1000">
 </a>
 <br>
-<h4>A curated list of repositories that will help individuals to prepare for examinations of Ethical Hacker </h4>
+<h3>A curated list of repositories that will help individuals to prepare for examinations of Ethical Hacker </h4>
 
 | Resource | Description |
 |-----------|-----|
