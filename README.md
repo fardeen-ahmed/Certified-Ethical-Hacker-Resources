@@ -16,3 +16,6 @@
 | <a href="https://www.youtube.com/watch?v=xpHkjEqGqgU">CEH Examinsation Questions (Youtube) </a> | A small video on CEH examination questions |
 | <a href="https://www.youtube.com/watch?v=gH3krN3RKC4">How to pass CEH Examination (Youtube) </a> | A small video on passing CEH examination |
 | <a href="https://www.youtube.com/watch?v=wFtrPsdnLbU">A detailed guide video (hindi)</a> | A detailed guide video (hindi) for a complete CEH examination |
+
+<h3> This repository will be enough to kick-start your journey as a Certified Ethical Hacker 🕵️‍♂️💻 </h3><br>
+<h2>Keep Levelling up and Keep Rocking...!!!</h2>
