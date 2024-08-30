@@ -3,4 +3,5 @@ A curated list of repositories that will help individuals to prepare for examina
 
 | Resource | Description |
 |-----------|-----|
-| <a href="https://book.thegurusec.com/certifications/certified-ethical-hacker-practical">CEH Practical</a>  | A Practical Guide for people working for Certified Ethical Hacker Certification  |
+| <a href="https://book.thegurusec.com/certifications/certified-ethical-hacker-practical">Book of Guru HariHaraun</a>  | A practical guide for people working to earn Certified Ethical Hacker Certification  |
+| <a href="https://immpetus.gitbook.io/ceh-practical">Immpetus</a> | Another practical guide for preparing for CEH theory + Practical certification |
